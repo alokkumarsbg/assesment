@@ -1,8 +1,8 @@
 # Addition of Integers
 
 ## Project Heirachy
-assessment/-
-|--------
+# assessment/-
+# |--------
 |---------- |addition/-
 |------------------|-models.py
 |------------------|-main.py
