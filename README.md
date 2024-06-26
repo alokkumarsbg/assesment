@@ -1,5 +1,11 @@
 # Addition of Integers in a list
 
+# Folder Structure
+```bash
+assessment/-
+         |-addition
+```
+
 ## Clone Git Repository
 
 ```bash
@@ -26,20 +32,6 @@ python main.py
 pytest
 ```
 
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## API to run from Postman
 ### Post request http://127.0.0.1:8000/api/add
