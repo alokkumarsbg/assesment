@@ -4,6 +4,14 @@
 ```bash
 assessment/-
          |-addition
+                  |-controller.py
+                  |-main.py
+                  |-model.py
+                  |-util.py
+                  |-view.py
+                  |-test_addition.py
+         |-requirement.txt
+         |-README.md
 ```
 
 ## Clone Git Repository
